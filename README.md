@@ -85,23 +85,8 @@ If you like this project, don’t forget to **star ⭐ the repo** and follow me 
 ---
 
 ### **🔗 Connect With Me**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-🐍 GitHub: [Your GitHub](https://github.com/YOUR-USERNAME)  
+📧 Email: roshanshaik378@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/roshan-shaik-083b542b5  
+🐍 GitHub: RoshanShaik0337
 
 ---
-
-### **✅ Next Steps (Optional)**
-📌 Add **voice authentication** for security  
-📌 Integrate **Google Calendar API** for event scheduling  
-📌 Add **multi-language support**  
-
----
-
-### 🎯 **Final Steps:**
-✅ **Replace "YOUR-USERNAME" with your GitHub username**  
-✅ **Replace "your.email@example.com" with your email**  
-✅ **Replace "Your LinkedIn" with your LinkedIn profile link**  
-
----
-
