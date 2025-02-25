@@ -1,7 +1,3 @@
-Great! Here's a **professional README** for your **Voice Assistant (Jarvis)** project. You can copy and paste it into your `README.md` file on GitHub.  
-
----
-
 ### **📢 Voice Assistant – Jarvis 🎙️**  
 
 ![Voice Assistant](https://img.shields.io/badge/Python-3.9+-blue.svg) ![SpeechRecognition](https://img.shields.io/badge/Library-SpeechRecognition-orange) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -109,5 +105,3 @@ If you like this project, don’t forget to **star ⭐ the repo** and follow me 
 
 ---
 
-### **🔥 Done!**
-Now, your **GitHub repo** looks professional! Let me know if you want any **more tweaks**! 🚀😃
